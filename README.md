@@ -1,0 +1,2 @@
+# demo-class
+sample class
